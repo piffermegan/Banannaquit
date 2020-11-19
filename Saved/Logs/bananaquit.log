@@ -2267,3 +2267,20 @@ Make sure 'SideScrollerCharacter_C' has been compiled for  Set Main_Menu_UI
 [2020.11.19-19.30.53:987][222]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.19-19.30.53:987][222]LogContentValidation: Display: Validating World /Game/Intro_Menu_Level.Intro_Menu_Level
 [2020.11.19-19.30.53:987][222]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Intro_Menu_Level_BuiltData.Intro_Menu_Level_BuiltData
+[2020.11.19-19.37.02:207][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.11.19-19.37.03:330][688]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.19-19.37.03:408][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.11.19-19.37.03:432][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.11.19-19.37.03:449][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.19-19.37.06:490][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Intro_Menu_Level" FILE="C:/Users/Megan/Documents/GitHub/Banannaquit/Content/Intro_Menu_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.19-19.37.06:512][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.11.19-19.37.06:530][894]LogSavePackage: Moving 'C:/Users/Megan/Documents/GitHub/Banannaquit/Saved/Intro_Menu_LevelCEF2EBED46EEFD7993FB6393518C56F7.tmp' to 'C:/Users/Megan/Documents/GitHub/Banannaquit/Content/Intro_Menu_Level.umap'
+[2020.11.19-19.37.06:555][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Intro_Menu_Level_BuiltData" FILE="C:/Users/Megan/Documents/GitHub/Banannaquit/Content/Intro_Menu_Level_BuiltData.uasset" SILENT=true
+[2020.11.19-19.37.06:569][894]LogSavePackage: Moving 'C:/Users/Megan/Documents/GitHub/Banannaquit/Saved/Intro_Menu_Level_BuiltDataBBE8AB58414EE204F0CBB0948D402A3F.tmp' to 'C:/Users/Megan/Documents/GitHub/Banannaquit/Content/Intro_Menu_Level_BuiltData.uasset'
+[2020.11.19-19.37.06:583][894]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.19-19.37.06:583][894]LogContentValidation: Display: Validating World /Game/Intro_Menu_Level.Intro_Menu_Level
+[2020.11.19-19.37.06:583][894]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Intro_Menu_Level_BuiltData.Intro_Menu_Level_BuiltData
+[2020.11.19-19.37.23:525][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2020.11.19-19.37.54:931][826]LogSavePackage: Moving 'C:/Users/Megan/Documents/GitHub/Banannaquit/Saved/SideScrollerCharacter811872A34D94A7CB0B26FAB2E9D90079.tmp' to 'C:/Users/Megan/Documents/GitHub/Banannaquit/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2020.11.19-19.37.54:944][826]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2020.11.19-19.37.54:944][826]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
